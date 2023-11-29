@@ -1,0 +1,29 @@
+D:\Personal Project (Code-For-Fun)\MyName\MyName\bin\Debug\net8.0\MyName.exe
+D:\Personal Project (Code-For-Fun)\MyName\MyName\bin\Debug\net8.0\MyName.deps.json
+D:\Personal Project (Code-For-Fun)\MyName\MyName\bin\Debug\net8.0\MyName.runtimeconfig.json
+D:\Personal Project (Code-For-Fun)\MyName\MyName\bin\Debug\net8.0\MyName.dll
+D:\Personal Project (Code-For-Fun)\MyName\MyName\bin\Debug\net8.0\MyName.pdb
+D:\Personal Project (Code-For-Fun)\MyName\MyName\obj\Debug\net8.0\MyName.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Project (Code-For-Fun)\MyName\MyName\obj\Debug\net8.0\MyName.AssemblyInfoInputs.cache
+D:\Personal Project (Code-For-Fun)\MyName\MyName\obj\Debug\net8.0\MyName.AssemblyInfo.cs
+D:\Personal Project (Code-For-Fun)\MyName\MyName\obj\Debug\net8.0\MyName.csproj.CoreCompileInputs.cache
+D:\Personal Project (Code-For-Fun)\MyName\MyName\obj\Debug\net8.0\MyName.dll
+D:\Personal Project (Code-For-Fun)\MyName\MyName\obj\Debug\net8.0\refint\MyName.dll
+D:\Personal Project (Code-For-Fun)\MyName\MyName\obj\Debug\net8.0\MyName.pdb
+D:\Personal Project (Code-For-Fun)\MyName\MyName\obj\Debug\net8.0\MyName.genruntimeconfig.cache
+D:\Personal Project (Code-For-Fun)\MyName\MyName\obj\Debug\net8.0\ref\MyName.dll
+D:\C4F_CodeForFun\MyName\MyName\bin\Debug\net8.0\MyName.exe
+D:\C4F_CodeForFun\MyName\MyName\bin\Debug\net8.0\MyName.deps.json
+D:\C4F_CodeForFun\MyName\MyName\bin\Debug\net8.0\MyName.runtimeconfig.json
+D:\C4F_CodeForFun\MyName\MyName\bin\Debug\net8.0\MyName.dll
+D:\C4F_CodeForFun\MyName\MyName\bin\Debug\net8.0\MyName.pdb
+D:\C4F_CodeForFun\MyName\MyName\obj\Debug\net8.0\MyName.GeneratedMSBuildEditorConfig.editorconfig
+D:\C4F_CodeForFun\MyName\MyName\obj\Debug\net8.0\MyName.AssemblyInfoInputs.cache
+D:\C4F_CodeForFun\MyName\MyName\obj\Debug\net8.0\MyName.AssemblyInfo.cs
+D:\C4F_CodeForFun\MyName\MyName\obj\Debug\net8.0\MyName.csproj.CoreCompileInputs.cache
+D:\C4F_CodeForFun\MyName\MyName\obj\Debug\net8.0\MyName.sourcelink.json
+D:\C4F_CodeForFun\MyName\MyName\obj\Debug\net8.0\MyName.dll
+D:\C4F_CodeForFun\MyName\MyName\obj\Debug\net8.0\refint\MyName.dll
+D:\C4F_CodeForFun\MyName\MyName\obj\Debug\net8.0\MyName.pdb
+D:\C4F_CodeForFun\MyName\MyName\obj\Debug\net8.0\MyName.genruntimeconfig.cache
+D:\C4F_CodeForFun\MyName\MyName\obj\Debug\net8.0\ref\MyName.dll
