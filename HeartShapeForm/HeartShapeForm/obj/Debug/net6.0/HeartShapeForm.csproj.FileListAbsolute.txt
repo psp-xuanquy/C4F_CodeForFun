@@ -12,3 +12,18 @@ D:\Personal Project (Code-For-Fun)\HeartShapeForm\HeartShapeForm\obj\Debug\net6.
 D:\Personal Project (Code-For-Fun)\HeartShapeForm\HeartShapeForm\obj\Debug\net6.0\HeartShapeForm.pdb
 D:\Personal Project (Code-For-Fun)\HeartShapeForm\HeartShapeForm\obj\Debug\net6.0\HeartShapeForm.genruntimeconfig.cache
 D:\Personal Project (Code-For-Fun)\HeartShapeForm\HeartShapeForm\obj\Debug\net6.0\ref\HeartShapeForm.dll
+D:\C4F_CodeForFun\HeartShapeForm\HeartShapeForm\bin\Debug\net6.0\HeartShapeForm.exe
+D:\C4F_CodeForFun\HeartShapeForm\HeartShapeForm\bin\Debug\net6.0\HeartShapeForm.deps.json
+D:\C4F_CodeForFun\HeartShapeForm\HeartShapeForm\bin\Debug\net6.0\HeartShapeForm.runtimeconfig.json
+D:\C4F_CodeForFun\HeartShapeForm\HeartShapeForm\bin\Debug\net6.0\HeartShapeForm.dll
+D:\C4F_CodeForFun\HeartShapeForm\HeartShapeForm\bin\Debug\net6.0\HeartShapeForm.pdb
+D:\C4F_CodeForFun\HeartShapeForm\HeartShapeForm\obj\Debug\net6.0\HeartShapeForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\C4F_CodeForFun\HeartShapeForm\HeartShapeForm\obj\Debug\net6.0\HeartShapeForm.AssemblyInfoInputs.cache
+D:\C4F_CodeForFun\HeartShapeForm\HeartShapeForm\obj\Debug\net6.0\HeartShapeForm.AssemblyInfo.cs
+D:\C4F_CodeForFun\HeartShapeForm\HeartShapeForm\obj\Debug\net6.0\HeartShapeForm.csproj.CoreCompileInputs.cache
+D:\C4F_CodeForFun\HeartShapeForm\HeartShapeForm\obj\Debug\net6.0\HeartShapeForm.sourcelink.json
+D:\C4F_CodeForFun\HeartShapeForm\HeartShapeForm\obj\Debug\net6.0\HeartShapeForm.dll
+D:\C4F_CodeForFun\HeartShapeForm\HeartShapeForm\obj\Debug\net6.0\refint\HeartShapeForm.dll
+D:\C4F_CodeForFun\HeartShapeForm\HeartShapeForm\obj\Debug\net6.0\HeartShapeForm.pdb
+D:\C4F_CodeForFun\HeartShapeForm\HeartShapeForm\obj\Debug\net6.0\HeartShapeForm.genruntimeconfig.cache
+D:\C4F_CodeForFun\HeartShapeForm\HeartShapeForm\obj\Debug\net6.0\ref\HeartShapeForm.dll

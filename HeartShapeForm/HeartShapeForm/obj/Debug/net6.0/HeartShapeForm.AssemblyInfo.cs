@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HeartShapeForm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+872bc934a65b12336c943e743b4f1616ae8e4ae3")]
 [assembly: System.Reflection.AssemblyProductAttribute("HeartShapeForm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HeartShapeForm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
