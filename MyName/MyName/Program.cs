@@ -12,17 +12,19 @@ class Program
         Console.Write("\n\n");
         Console.Write("------------------------------------------------------DAO XUAN QUY------------------------------------------------------");
         Console.Write("\n\n");
+        Console.Write("\n\n");
         string[] patternLines = {
 
-            "        U       U     A A A A     NN       N     Q Q Q Q Q     U       U   Y       Y ",
-            "        U       U     A     A     N N      N     Q       Q     U       U    Y     Y ",
-            "X       U       U     A     A     N  N     N     Q       Q     U       U     Y   Y  ",
-            " X      U       U     A     A     N   N    N     Q       Q     U       U      Y Y   ",
-            "  X     U       U     A A A A     N    N   N     Q       Q     U       U       Y    ",
-            "   X    U       U     A     A     N     N  N     Q       Q     U       U       Y    ",
-            "  X     U       U     A     A     N      N N     Q       Q     U       U       Y    ",
-            " X      U U U U U     A     A     N       NN     Q Q Q Q Q     U U U U U       Y    ",
-            "                                                          Q                         "
+            " D D D D      A A A A    O O O O O          X       X    U       U     A A A A     N       N          Q Q Q Q Q     U       U   Y       Y ",
+            " D      D     A     A    O       O           X     X     U       U     A     A     NN      N          Q       Q     U       U    Y     Y  ",
+            " D       D    A     A    O       O            X   X      U       U     A     A     N N     N          Q       Q     U       U     Y   Y   ",
+            " D       D    A     A    O       O             X X       U       U     A     A     N  N    N          Q       Q     U       U      Y Y    ",
+            " D       D    A A A A    O       O              X        U       U     A A A A     N   N   N          Q       Q     U       U       Y     ",
+            " D       D    A     A    O       O             X X       U       U     A     A     N    N  N          Q       Q     U       U       Y     ",
+            " D       D    A     A    O       O            X   X      U       U     A     A     N     N N          Q       Q     U       U       Y     ",
+            " D      D     A     A    O       O           X     X     U       U     A     A     N      NN          Q       Q     U       U       Y     ",
+            " D D D D      A     A    O O O O O          X       X    U U U U U     A     A     N       N          Q Q Q Q Q     U U U U U       Y     ",
+            "                                                                                                               Q                          "
 
         };
 
