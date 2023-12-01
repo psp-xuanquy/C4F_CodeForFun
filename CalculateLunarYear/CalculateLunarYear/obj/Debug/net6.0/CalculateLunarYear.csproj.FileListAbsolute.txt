@@ -1,0 +1,15 @@
+D:\C4F_CodeForFun\CalculateLunarYear\CalculateLunarYear\bin\Debug\net6.0\CalculateLunarYear.exe
+D:\C4F_CodeForFun\CalculateLunarYear\CalculateLunarYear\bin\Debug\net6.0\CalculateLunarYear.deps.json
+D:\C4F_CodeForFun\CalculateLunarYear\CalculateLunarYear\bin\Debug\net6.0\CalculateLunarYear.runtimeconfig.json
+D:\C4F_CodeForFun\CalculateLunarYear\CalculateLunarYear\bin\Debug\net6.0\CalculateLunarYear.dll
+D:\C4F_CodeForFun\CalculateLunarYear\CalculateLunarYear\bin\Debug\net6.0\CalculateLunarYear.pdb
+D:\C4F_CodeForFun\CalculateLunarYear\CalculateLunarYear\obj\Debug\net6.0\CalculateLunarYear.GeneratedMSBuildEditorConfig.editorconfig
+D:\C4F_CodeForFun\CalculateLunarYear\CalculateLunarYear\obj\Debug\net6.0\CalculateLunarYear.AssemblyInfoInputs.cache
+D:\C4F_CodeForFun\CalculateLunarYear\CalculateLunarYear\obj\Debug\net6.0\CalculateLunarYear.AssemblyInfo.cs
+D:\C4F_CodeForFun\CalculateLunarYear\CalculateLunarYear\obj\Debug\net6.0\CalculateLunarYear.csproj.CoreCompileInputs.cache
+D:\C4F_CodeForFun\CalculateLunarYear\CalculateLunarYear\obj\Debug\net6.0\CalculateLunarYear.sourcelink.json
+D:\C4F_CodeForFun\CalculateLunarYear\CalculateLunarYear\obj\Debug\net6.0\CalculateLunarYear.dll
+D:\C4F_CodeForFun\CalculateLunarYear\CalculateLunarYear\obj\Debug\net6.0\refint\CalculateLunarYear.dll
+D:\C4F_CodeForFun\CalculateLunarYear\CalculateLunarYear\obj\Debug\net6.0\CalculateLunarYear.pdb
+D:\C4F_CodeForFun\CalculateLunarYear\CalculateLunarYear\obj\Debug\net6.0\CalculateLunarYear.genruntimeconfig.cache
+D:\C4F_CodeForFun\CalculateLunarYear\CalculateLunarYear\obj\Debug\net6.0\ref\CalculateLunarYear.dll
