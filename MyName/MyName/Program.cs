@@ -30,12 +30,7 @@ class Program
 
         for (int i = 0; i < patternLines.Length; i++)
         {
-            for (int j = 0; j < patternLines[i].Length; j++)
-            {
-                Console.Write(patternLines[i][j]);
-                System.Threading.Thread.Sleep(10);
-            }
-            Console.WriteLine();
+            Console.WriteLine(patternLines[i]);
         }
     }
 }
